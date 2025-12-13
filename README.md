@@ -6,4 +6,4 @@ The objective of this report was to analyze a disk image of a hard drive without
 
 ## Report
 
-A copy of the report is available <a href="">here</a> and in the files tab.
+A copy of the report is available <a href="https://github.com/anthonysmithmyer/Clampet/blob/main/Clampet%20Report.pdf">here</a> and in the files tab.
